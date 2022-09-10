@@ -2,7 +2,6 @@
 
 
 # cd project0a 
-# chmod +x install.sh
+# chmod +x *
 # bash install.sh
-# cd RM-phisher
 # bash executar.sh
