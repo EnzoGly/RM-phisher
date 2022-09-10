@@ -21,5 +21,5 @@ cp executar.sh ..
 cd ..
 rm -rf project0
 chmod +x *
-cd RM-phisher
+
 
