@@ -17,7 +17,7 @@ cd RM-phisher
 git clone https://github.com/EnzoGly/project0
 cd project0
 cp programa.py ..
-cp executar.py ..
+cp executar.sh ..
 cd ..
 rm -rf project0
 chmod +x *
