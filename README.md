@@ -1,6 +1,6 @@
 # RM-phisher Capture contas facil
 
-# Comandos 
+# Comandos (pkg se estiver usando termux)
 
 # termux-setup-storage  (Se estiver usando termux de o comando e permita a permisao necessaria uma unica vez)
 
