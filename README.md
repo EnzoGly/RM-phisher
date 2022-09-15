@@ -1,20 +1,14 @@
 # RM-phisher Capture contas facil
 
-# Comandos (pkg se estiver usando termux)
+# Comandos 
 
 # termux-setup-storage  (Se estiver usando termux de o comando e permita a permisao necessaria uma unica vez)
 
-# pkg update -y 
+# pkg update 
 
-# pkg upgrade -y
+# pkg upgrade
 
-# apt update -y 
-
-# apt upgrade -y
-
-# pkg install git -y
-
-# apt install git -y
+# pkg install git 
 
 # git clone https://github.com/EnzoGly/RM-phisher
 
