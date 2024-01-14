@@ -19,7 +19,7 @@ cd API-RM-phisher
 cp programa.py ..
 cp executar.sh ..
 cd ..
-rm -rf project0
+rm -rf API-RM-phisher
 chmod +x *
 
 
